@@ -1,0 +1,1 @@
+Following http://spring.io/guides/gs/gradle/ tutorial. This is to test Gradle and build on top of simple HelloWorld.
